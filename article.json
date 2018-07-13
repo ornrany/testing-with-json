@@ -1,0 +1,342 @@
+{
+  "CODE": "0000",
+  "MESSAGE": "YOU HAVE BEEN FIND ALL ARTICLES SUCCESSFULLY.",
+  "DATA": [
+    {
+      "ID": 81030,
+      "TITLE": "create article test",
+      "DESCRIPTION": "string",
+      "CREATED_DATE": "20180713194408",
+      "AUTHOR": {
+        "ID": 0,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 1,
+        "NAME": "NEWS"
+      },
+      "IMAGE": "string"
+    },
+    {
+      "ID": 81025,
+      "TITLE": "Testing",
+      "DESCRIPTION": "123123",
+      "CREATED_DATE": "20180712185221",
+      "AUTHOR": {
+        "ID": 0,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 81011,
+      "TITLE": "Welcome",
+      "DESCRIPTION": "welcome",
+      "CREATED_DATE": "20180711192539",
+      "AUTHOR": {
+        "ID": 0,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 81010,
+      "TITLE": "neka ios test",
+      "DESCRIPTION": "@neka test",
+      "CREATED_DATE": "20180711192524",
+      "AUTHOR": {
+        "ID": 0,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 81008,
+      "TITLE": "My First API test",
+      "DESCRIPTION": "HRD 5th iOS Course",
+      "CREATED_DATE": "20180711192459",
+      "AUTHOR": {
+        "ID": 0,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 81006,
+      "TITLE": "Testing from ios Class",
+      "DESCRIPTION": "string",
+      "CREATED_DATE": "20180711191749",
+      "AUTHOR": {
+        "ID": 0,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 81005,
+      "TITLE": "Testing from iOS Class",
+      "DESCRIPTION": "Testing from iOS Class",
+      "CREATED_DATE": "20180711191710",
+      "AUTHOR": {
+        "ID": 1,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 1,
+        "NAME": "NEWS"
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 81004,
+      "TITLE": "Testing from ios Class",
+      "DESCRIPTION": "string",
+      "CREATED_DATE": "20180711191620",
+      "AUTHOR": {
+        "ID": 0,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 81003,
+      "TITLE": "testing",
+      "DESCRIPTION": "testing",
+      "CREATED_DATE": "20180711173612",
+      "AUTHOR": {
+        "ID": 0,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 540,
+      "TITLE": "សួនសត្វ Phnom Penh Safari World នឹងដាក់អោយប្រេីប្រាស់នៅដេីមឆ្នាំ២០១៧ មុនចូលឆ្នាំខ្មែរ !",
+      "DESCRIPTION": "សួនសត្វ Phnom Penh Safari World នឹងដាក់អោយប្រេីប្រាស់នៅដេីមឆ្នាំ២០១៧ មុនចូលឆ្នាំខ្មែរ ! ជាសួនសត្វដំបូង នឹងមានវត្តមាននៅរាជធានីភ្នំពេញ ក្នុងខណ្ឌជ្រោយចង្វាររបស់លោកឧកញ៉ា លី យ៉ុងផាត់ លេីផ្ទៃដីទំហំ ៨០ហិកតា។ ដំណេីរការសាងសង់សម្រេចបាន ៨០% នៃគម្រោងដែលរួមមានៈ -សាលសំដែងសត្វស្វា -សាលសំដែងសត្វបក្សី -សាលសំដែងសត្វខ្លា -សាលសំដែងសត្វក្រពេី -សួនសត្វគ្រប់ប្រភេទ -សួនទឹក -សួនផ្កា ស្មៅ រុក្ខជាតិ -អគារអាហារដ្ឋាន",
+      "CREATED_DATE": "20161229052420",
+      "AUTHOR": {
+        "ID": 0,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 539,
+      "TITLE": "សួនសត្វ Phnom Penh Safari World នឹងដាក់អោយប្រេីប្រាស់នៅដេីមឆ្នាំ២០១៧ មុនចូលឆ្នាំខ្មែរ !",
+      "DESCRIPTION": "សួនសត្វ Phnom Penh Safari World នឹងដាក់អោយប្រេីប្រាស់នៅដេីមឆ្នាំ២០១៧ មុនចូលឆ្នាំខ្មែរ ! ជាសួនសត្វដំបូង នឹងមានវត្តមាននៅរាជធានីភ្នំពេញ ក្នុងខណ្ឌជ្រោយចង្វាររបស់លោកឧកញ៉ា លី យ៉ុងផាត់ លេីផ្ទៃដីទំហំ ៨០ហិកតា។ ដំណេីរការសាងសង់សម្រេចបាន ៨០% នៃគម្រោងដែលរួមមានៈ -សាលសំដែងសត្វស្វា -សាលសំដែងសត្វបក្សី -សាលសំដែងសត្វខ្លា -សាលសំដែងសត្វក្រពេី -សួនសត្វគ្រប់ប្រភេទ -សួនទឹក -សួនផ្កា ស្មៅ រុក្ខជាតិ -អគារអាហារដ្ឋាន",
+      "CREATED_DATE": "20161227085541",
+      "AUTHOR": {
+        "ID": 510,
+        "NAME": null,
+        "EMAIL": null,
+        "GENDER": null,
+        "TELEPHONE": null,
+        "STATUS": null,
+        "FACEBOOK_ID": null,
+        "IMAGE_URL": null
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 1,
+        "NAME": "NEWS"
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 72,
+      "TITLE": "វេទិកា​សហគ្រិន​ប្រចាំ​ឆ្នាំ​២០១៦ របស់​សភា​យុវ​ពាណិជ្ជករ​អន្តរជាតិ​កម្ពុជា​",
+      "DESCRIPTION": "វេទិកា​សហគ្រិន​ប្រចាំ​ឆ្នាំ​២០១៦ របស់​សភា​យុវ​ពាណិជ្ជករ​អន្តរជាតិ​កម្ពុជា​ ប្រធាន​បទ៖ គន្លឹះ​ជោគ​ជ័យ និង​ឱកាស​វិនិ​យោគ​ក្នុង​វិស័យ​អចលនទ្រព្យ វិស័យ​ម្ហូប​អាហារ​និង​ភេសជ្ជៈ ​និង​វិស័យ​កសិកម្ម​សរីរាង្គ នៅ​កម្ពុជា​ នឹង​ធ្វើ​នៅ​ថ្ងៃ​ទី​២៧ ខែ​សីហា ឆ្នាំ​២០១៦  នៅ​សណ្ឋាគារ​សុខា​ភ្នំពេញ និង​រេស៊ី​ដេន​។ សម្រាប់ពត៌មានបន្ថែម៖ ចុចទីនេះ    ",
+      "CREATED_DATE": "20160806092918",
+      "AUTHOR": {
+        "ID": 269,
+        "NAME": "kp",
+        "EMAIL": "kp",
+        "GENDER": "m",
+        "TELEPHONE": "016600701",
+        "STATUS": "1",
+        "FACEBOOK_ID": "123456789",
+        "IMAGE_URL": "http://api-ams.me:80/image-thumbnails/thumbnail-3ec40c87-03e7-4423-9770-18b11dc66d63.jpg"
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 71,
+      "TITLE": "ព្រឹត្តិការណ៍«ជិះកង់ ដើម្បីបរិស្ថាន និងសុខភាពកុមារ»",
+      "DESCRIPTION": "ព្រឹត្តិការណ៍«ជិះកង់ ដើម្បីបរិស្ថាន និងសុខភាពកុមារ» នឹងប្រព្រឹត្តនៅថ្ងៃទីទី ១៤ខែសីហា ឆ្នាំ ២០១៦ខាងមុខនេះ សម្រាប់អ្នកមិនទាន់បានចុះឈ្មោះ សូមប្រញាប់រួសរាន់មកចុះឈ្មោះទាំងអស់គ្នាណា៎ … លោកអ្នកអាចអញ្ចើញមកចុះឈ្មោះនៅ៖ – មជ្ឈមណ្ឌលទស្សនកិច្ច របស់មន្ទីរពេទ្យកុមារអង្គរ (Visitor Center) – ភោជនីយដ្ឋាន Asian Square ជិតរង្វង់មូលវត្តដំណាក់ – ក្រុមហ៊ុន Travel Loop – ហាងកង់អាំង គឹមសាន សម្រាប់​ពត៌​មាន​បន្ថែម៖​ចុចទីនេះ     ",
+      "CREATED_DATE": "20160806092918",
+      "AUTHOR": {
+        "ID": 269,
+        "NAME": "kp",
+        "EMAIL": "kp",
+        "GENDER": "m",
+        "TELEPHONE": "016600701",
+        "STATUS": "1",
+        "FACEBOOK_ID": "123456789",
+        "IMAGE_URL": "http://api-ams.me:80/image-thumbnails/thumbnail-3ec40c87-03e7-4423-9770-18b11dc66d63.jpg"
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 0,
+        "NAME": null
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 70,
+      "TITLE": "Samai takover",
+      "DESCRIPTION": "អផ្សុកអត់ដឹងទៅណាលោកអ្នកអាចចូលរួមកម្មវិធីពិសេសរបស់ Samai​នៅថ្ងៃទី៥ ខែសីហា ចាប់ពីម៉ោង៧ល្ងាចដល់ម៉ោង៨ លោកអ្នកអាចអញ្ជើញទៅភ្លក់រសជាតិស្រាក្រឡុកនិងម្ហូបពិសេសថ្មីដែលលោកអ្នកមិនធ្លាប់បានសាកពីមុន។ សម្រាប់ពត៌មានបន្ថែម៖ ចុចទីនេះ  ",
+      "CREATED_DATE": "20160806092918",
+      "AUTHOR": {
+        "ID": 269,
+        "NAME": "kp",
+        "EMAIL": "kp",
+        "GENDER": "m",
+        "TELEPHONE": "016600701",
+        "STATUS": "1",
+        "FACEBOOK_ID": "123456789",
+        "IMAGE_URL": "http://api-ams.me:80/image-thumbnails/thumbnail-3ec40c87-03e7-4423-9770-18b11dc66d63.jpg"
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 1,
+        "NAME": "NEWS"
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    },
+    {
+      "ID": 69,
+      "TITLE": "​​​ទៅ​មើល​កំពូល​តន្ត្រីកររូម៉េនទិច​ Sungha​ Jung​ ទាំង​អស់​គ្នា​!",
+      "DESCRIPTION": "ស៊ុង​ហា​ជុង​ដែល​ជា​តន្ត្រីករ​ជនជាតិ​កូរ៉េ​ដ៏​ល្បីល្បាញ​នៅលើ​ YouTube​ ក៏ដូចជា​ Facebook​ នឹង​មក​ប្រគុំ​តន្ត្រី​នៅ​កម្ពុជា​នៅ​ថ្ងៃ​ទី​ ២១​ សីហា​ខាងមុខ​នេះ​នៅ​ម៉ោង​ ៧​:៣០​ យប់​នៅ​សណ្ឋាគារ​ Dara​ Airport​ ។​   ​​តន្ត្រីករ​រូប​នេះ​ល្បី​ល្បាញ​ដោយ​សារ​ស្តាយ៍​លេង​ភ្លេង​បែប​ freestyle​ និង​លេង​ភ្លេង​តាម​លំនាំបទ​ល្បី​ៗ​ជា​ច្រើន​។​ គិត​មក​ដល់​ពេល​នេះ​ ស៊ុង​ហា​ជុង​មាន​អ្នក​គាំទ្រ​នៅលើ​ Facebook​ ចំនួន​ ១,២​ លាន​នាក់​ និង​ YouTube​ ចំនួន​ ៤​ លាន​នាក់​។​     ​ដូច្នេះ​ប្រសិន​បើ​អ្នក​ជា​អ្នក​គាំទ្រ​តន្ត្រីករ​រូប​នេះ​ ហើយ​ចង់​កក់​សំបុត្រ​ចូលរួម​ អ្នក​អាច​ចូល​ទៅ​កាន់​ទំព័រ​ Facebook​ ដែល​មាន​ឈ្មោះ​ថា​ Guitar​ Concert​ in​ Cambodia​ ដើម្បី​ទទួល​បាន​ព័ត៌មាន​បន្ថែម​។",
+      "CREATED_DATE": "20160806092918",
+      "AUTHOR": {
+        "ID": 269,
+        "NAME": "kp",
+        "EMAIL": "kp",
+        "GENDER": "m",
+        "TELEPHONE": "016600701",
+        "STATUS": "1",
+        "FACEBOOK_ID": "123456789",
+        "IMAGE_URL": "http://api-ams.me:80/image-thumbnails/thumbnail-3ec40c87-03e7-4423-9770-18b11dc66d63.jpg"
+      },
+      "STATUS": "1",
+      "CATEGORY": {
+        "ID": 1,
+        "NAME": "NEWS"
+      },
+      "IMAGE": "http://api-ams.me:80/image-thumbnails/thumbnail-3417fd89-18b0-4538-a187-afbf2a98e976.jpg"
+    }
+  ],
+  "PAGINATION": {
+    "PAGE": 1,
+    "LIMIT": 15,
+    "TOTAL_COUNT": 67,
+    "TOTAL_PAGES": 5
+  }
+}
